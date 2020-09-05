@@ -1,5 +1,6 @@
 # pattern-matcher
 Implementation of pattern matching algorithm in large dataset
+
 Trie data structure can be used to implement pattern matching algorithm on large datasets in the most optimal way. 
 
 ## inspiration from here
